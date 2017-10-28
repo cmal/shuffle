@@ -94,7 +94,7 @@ result: the list of times that every combination occurs"
 "Elapsed time: 12249.9654 msecs"
 
 ;; CONCLUSION:
-;; Due to Monte Carlo simulation, we can believe that
+;; According to Monte Carlo simulation, we can believe that
 ;; shuffle1 and shuffle2 both can do a random shuffle work.
 ;; It seems shuffle1 always do a better job than shuffle2.
 ;; That may due to shuffle1 do more rand, but shuffle2 do
